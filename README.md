@@ -20,7 +20,7 @@ Québec, Canada &nbsp;|&nbsp; Français · English · Deutsch
 
 **FR**
 
-Moi c'est Brice Steve, mais on m'appelle **Beltran**. Développeur full-stack et entrepreneur au Québec, je conçois, développe et déploie mes produits de A à Z : interface, API, infrastructure et publication sur l'App Store et le Chrome Web Store.
+Moi c'est Brice Steve Tchagam. Développeur full-stack et entrepreneur au Québec, je conçois, développe et déploie mes produits de A à Z : interface, API, infrastructure et publication sur l'App Store et le Chrome Web Store.
 
 Mon parcours est hybride : une **maîtrise en marketing**, puis les **Techniques de l'informatique** au CÉGEP de Sorel-Tracy. J'aime les produits qui ont un vrai public, et je creuse ce qu'il faut pour qu'ils tiennent la route : sécurité applicative (chiffrement zero-knowledge, WebAuthn, 2FA), paiements en ligne (Stripe Connect), temps réel (WebSockets, MQTT, LiveKit) et iOS natif (SwiftUI).
 
