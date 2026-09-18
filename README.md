@@ -40,7 +40,7 @@ My background is a hybrid one: a **master's degree in marketing**, followed by *
 | **Frameworks & UI** | <img src="https://skillicons.dev/icons?i=laravel,react,vue,nuxtjs,tailwind,vite,bootstrap,alpinejs" alt="Laravel, React, Vue, Nuxt, Tailwind CSS, Vite, Bootstrap, Alpine.js" /> |
 | **Back-end & données · Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,redis" alt="Node.js, Express, PostgreSQL, SQLite, Redis" /> |
 | **Infra & DevOps** | <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,git,github" alt="Docker, Nginx, Cloudflare, Git, GitHub" /> |
-| **Design & outils · Tools** | <img src="https://skillicons.dev/icons?i=phpstorm,vscode,ps,ai,pr,ae" alt="PhpStorm, VS Code, Photoshop, Illustrator, Premiere Pro, After Effects" /> |
+| **Design & outils · Tools** | <img src="https://skillicons.dev/icons?i=phpstorm,vscode,figma,ps,ai,pr,ae" alt="PhpStorm, VS Code, Figma, Photoshop, Illustrator, Premiere Pro, After Effects" /> |
 
 **Aussi · Also :** Stripe Connect · MQTT · WebSockets (Laravel Reverb, LiveKit) · WebAuthn, TOTP, OAuth · Argon2id, AES-256-GCM, RSA · Laravel Sanctum · Inertia.js · ESP32 · DigitalOcean
 
